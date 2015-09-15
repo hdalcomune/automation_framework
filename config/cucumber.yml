@@ -1,0 +1,3 @@
+default:  --profile pom
+#--no-source --color --format pretty
+pom: --format html --out log/cucumber.html --format pretty

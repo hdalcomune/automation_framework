@@ -1,0 +1,17 @@
+
+new_account:
+ login: email
+ password: @
+
+valid_account:
+ login: email
+ password: @
+ invalid_password: invalidpassword
+
+invalid_account:
+ login: email
+ password: @
+
+unauthorized_account:
+ login: email
+ password: @
