@@ -6,7 +6,7 @@ new_account:
 valid_account:
  login: email
  password: @
- invalid_password: invalidpassword
+ invalid_password: @
 
 invalid_account:
  login: email
